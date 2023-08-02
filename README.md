@@ -2,7 +2,7 @@
 
 ## Introduction
 
-AnsibleCloudOps is a DevOps project designed to automate the creation of infrastructure in the AWS cloud using Terraform and configure systems using Ansible. The project aims to simplify the deployment and management of cloud resources while ensuring efficiency, scalability, and reliability.
+AnsibleCloudOps is a DevOps project is to demonstrate the creation of infrastructure in the AWS cloud using Terraform and configure systems using Ansible. The project aims to simplify the deployment and management of cloud resources while ensuring efficiency, scalability, and reliability.
 
 ## Project Goals
 

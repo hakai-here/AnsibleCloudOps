@@ -12,3 +12,15 @@ variable "cidr_block" {
     default     = "0.0.0.0/0"
     description = "The CIDR block to be used for allowing universal access to resources."
 }
+
+
+variable "master_ssh_key_name" {
+  default = "master_node_key"
+description = "The SSH key used by ansible master connect to the master node"
+
+}
+
+variable "slave_ssh_key_name" {
+  default = "slave_node_key"
+  description = "The SSH key used by ansible master node to communicate with the slave nodes"
+}
