@@ -13,6 +13,10 @@ variable "cidr_block" {
     description = "The CIDR block to be used for allowing universal access to resources."
 }
 
+variable "aws_region"{
+  default = "ap-south-1"
+  description = "The  AWS region to host the service"
+}
 
 variable "master_ssh_key_name" {
   default = "master_node_key"
