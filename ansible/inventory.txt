@@ -1,1 +1,4 @@
 [servers]
+server1 ansible_host=<server_1_ip>
+server2 ansible_host=<server_2_ip>
+server3 ansible_host=<server_3_ip>

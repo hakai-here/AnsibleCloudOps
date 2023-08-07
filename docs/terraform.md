@@ -62,4 +62,6 @@ terraform validate
 terraform plan
 terraform apply
 ```
-Review the configuration and make any necessary adjustments to match your specific needs before running terraform apply. Once the deployment is complete, you will have a functioning infrastructure with a master node and multiple slave nodes, ready for further configuration and us
+Review the configuration and make any necessary adjustments to match your specific needs before running terraform apply. Once the deployment is complete, you will have a functioning infrastructure with a master node and multiple slave nodes, ready for further configuration 
+
+![aws-presentation-nodes](./image/Ec2.png)

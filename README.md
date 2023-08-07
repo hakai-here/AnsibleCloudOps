@@ -31,4 +31,5 @@ To start using AnsibleCloudOps, follow these steps:
 - Navigate to the project's [terraform](./terraform/variables.tf) directory and update the necessary variables in the Terraform files, such as AWS region, instance types, etc.
 - After updating the variables, you are ready to apply the [Terraform configuration](./docs/terraform.md) and create the infrastructure on AWS.
 
-ones you
+## Installation and Configuration 
+Once the infrastructure is set up, you can proceed with configuring the systems using [Installation](./docs/installing.md) and [Configuration](./docs/configuring.md) Docs 
